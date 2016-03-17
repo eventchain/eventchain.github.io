@@ -1,7 +1,10 @@
 org.eventchain
+org.eventchain.admin
 org.eventchain.annotations
 org.eventchain.h2
+org.eventchain.h2.index
 org.eventchain.hlc
 org.eventchain.index
 org.eventchain.layout
+org.eventchain.layout.core
 org.eventchain.layout.types
