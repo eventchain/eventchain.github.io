@@ -8,3 +8,4 @@ org.eventchain.index
 org.eventchain.layout
 org.eventchain.layout.core
 org.eventchain.layout.types
+org.eventchain.osgi
