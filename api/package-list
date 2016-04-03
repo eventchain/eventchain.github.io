@@ -1,5 +1,4 @@
 org.eventchain
-org.eventchain.admin
 org.eventchain.annotations
 org.eventchain.h2
 org.eventchain.h2.index
